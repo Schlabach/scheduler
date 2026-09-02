@@ -1,7 +1,7 @@
 {
   "kind": "capacity-plan",
   "version": 2,
-  "publishedAt": "2026-09-02T14:28:28.371Z",
+  "publishedAt": "2026-09-02T16:58:57.685Z",
   "planName": "Development To Do",
   "people": [
     {
@@ -25,6 +25,28 @@
   ],
   "tasks": [
     {
+      "id": "a3nkot2",
+      "name": "Rooted Labels",
+      "area": "Global Shop",
+      "owner": "matt",
+      "estimate": 5,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "9u0mqmk",
+      "name": "Test 3 BOM fix",
+      "area": "Data Conversion",
+      "owner": "matt",
+      "estimate": 4,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
       "id": "ijizbj9",
       "name": "Cutbill/Rooted",
       "area": "Global Shop",
@@ -44,17 +66,6 @@
       "spent": 0,
       "phase": 1,
       "after": "ijizbj9",
-      "done": false
-    },
-    {
-      "id": "a3nkot2",
-      "name": "Rooted Labels",
-      "area": "Global Shop",
-      "owner": "matt",
-      "estimate": 5,
-      "spent": 0,
-      "phase": 1,
-      "after": "",
       "done": false
     },
     {
@@ -80,14 +91,25 @@
       "done": false
     },
     {
+      "id": "05dkz6g",
+      "name": "Data review/alterations",
+      "area": "Data Conversion",
+      "owner": "matt",
+      "estimate": 10,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
       "id": "yxg7n45",
-      "name": "Test 4 Data",
+      "name": "Test 4 Data Conversion",
       "area": "Data Conversion",
       "owner": "matt",
       "estimate": 20,
       "spent": 0,
       "phase": 1,
-      "after": "",
+      "after": "05dkz6g",
       "done": false
     },
     {
@@ -128,7 +150,7 @@
       "name": "Reports",
       "area": "Reports/Labels",
       "owner": "andrew",
-      "estimate": 100,
+      "estimate": 80,
       "spent": 0,
       "phase": 1,
       "after": "",
@@ -160,7 +182,7 @@
       "id": "it1avqb",
       "name": "Add points to SLD",
       "area": "Acumatica",
-      "owner": "matt",
+      "owner": "andrew",
       "estimate": 5,
       "spent": 0,
       "phase": 1,
@@ -190,11 +212,11 @@
       "done": false
     },
     {
-      "id": "kxk570e",
-      "name": "Reports & Labels",
-      "area": "Reports/Labels",
-      "owner": "mike",
-      "estimate": 40,
+      "id": "945csqu",
+      "name": "New Pricing Portal for Angie with new login system",
+      "area": "Marketing",
+      "owner": "andrew",
+      "estimate": 15,
       "spent": 0,
       "phase": 1,
       "after": "",
@@ -206,17 +228,6 @@
       "area": "Web",
       "owner": "andrew",
       "estimate": 5,
-      "spent": 0,
-      "phase": 1,
-      "after": "",
-      "done": false
-    },
-    {
-      "id": "945csqu",
-      "name": "New  Pricing Portal for Angie with new login system",
-      "area": "Marketing",
-      "owner": "andrew",
-      "estimate": 15,
       "spent": 0,
       "phase": 1,
       "after": "",
@@ -265,12 +276,34 @@
       "phase": 2,
       "after": "",
       "done": false
+    },
+    {
+      "id": "mxxwu98",
+      "name": "Grading Fix",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 12,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "sssijcx",
+      "name": "Timber contract field addition",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 8,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
     }
   ],
   "phases": [
     {
       "id": 1,
-      "name": "Go Live"
+      "name": "Phase 1"
     },
     {
       "id": 2,
@@ -342,9 +375,9 @@
     },
     {
       "id": "dtk1j6z",
-      "date": "2027-12-24",
+      "date": "2027-12-25",
       "label": "Christmas Day"
     }
   ],
-  "startISO": "2026-09-02"
+  "startISO": "2026-09-03"
 }
