@@ -1,7 +1,7 @@
 {
   "kind": "capacity-plan",
   "version": 2,
-  "publishedAt": "2026-09-02T16:58:57.685Z",
+  "publishedAt": "2026-09-02T17:11:34.569Z",
   "planName": "Development To Do",
   "people": [
     {
@@ -293,7 +293,18 @@
       "name": "Timber contract field addition",
       "area": "Acumatica",
       "owner": "mike",
-      "estimate": 8,
+      "estimate": 10,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "2ul2i3u",
+      "name": "Customization Handoff",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 4,
       "spent": 0,
       "phase": 1,
       "after": "",
