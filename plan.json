@@ -1,0 +1,350 @@
+{
+  "kind": "capacity-plan",
+  "version": 2,
+  "publishedAt": "2026-09-02T14:28:28.371Z",
+  "planName": "Development To Do",
+  "people": [
+    {
+      "vacations": [],
+      "id": "matt",
+      "name": "Matt",
+      "hoursPerDay": 5
+    },
+    {
+      "vacations": [],
+      "id": "mike",
+      "name": "Mike",
+      "hoursPerDay": 8
+    },
+    {
+      "vacations": [],
+      "id": "andrew",
+      "name": "Andrew",
+      "hoursPerDay": 5
+    }
+  ],
+  "tasks": [
+    {
+      "id": "ijizbj9",
+      "name": "Cutbill/Rooted",
+      "area": "Global Shop",
+      "owner": "matt",
+      "estimate": 10,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "wihlnlg",
+      "name": "Cutbill/Rooted/Auth",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 20,
+      "spent": 0,
+      "phase": 1,
+      "after": "ijizbj9",
+      "done": false
+    },
+    {
+      "id": "a3nkot2",
+      "name": "Rooted Labels",
+      "area": "Global Shop",
+      "owner": "matt",
+      "estimate": 5,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "gkb9fl8",
+      "name": "Sales Portal",
+      "area": "Acumatica",
+      "owner": "andrew",
+      "estimate": 100,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "wi7dv3t",
+      "name": "Optimatch Conversion",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 35,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "yxg7n45",
+      "name": "Test 4 Data",
+      "area": "Data Conversion",
+      "owner": "matt",
+      "estimate": 20,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "0bxxghj",
+      "name": "Shipping/Carton Count",
+      "area": "POP",
+      "owner": "matt",
+      "estimate": 90,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "gnp3io4",
+      "name": "Boxing GI/Label Printing",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 35,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "ddt4ib2",
+      "name": "Paragon",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 5,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "t9rpsn8",
+      "name": "Reports",
+      "area": "Reports/Labels",
+      "owner": "andrew",
+      "estimate": 100,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "dk5k0km",
+      "name": "Set Load Date",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 20,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "qh0hprz",
+      "name": "Scoreboard Conversion",
+      "area": "Acumatica",
+      "owner": "andrew",
+      "estimate": 25,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "it1avqb",
+      "name": "Add points to SLD",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 5,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "4m2mpsq",
+      "name": "Move/Pick Ticket Labels",
+      "area": "Reports/Labels",
+      "owner": "mike",
+      "estimate": 56,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "rf1w5eb",
+      "name": "Labels",
+      "area": "Reports/Labels",
+      "owner": "mike",
+      "estimate": 40,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "kxk570e",
+      "name": "Reports & Labels",
+      "area": "Reports/Labels",
+      "owner": "mike",
+      "estimate": 40,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "r7khklp",
+      "name": "Web server updates for WRL",
+      "area": "Web",
+      "owner": "andrew",
+      "estimate": 5,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "945csqu",
+      "name": "New  Pricing Portal for Angie with new login system",
+      "area": "Marketing",
+      "owner": "andrew",
+      "estimate": 15,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "y21r340",
+      "name": "Mailerlite plugin rewrite",
+      "area": "Marketing",
+      "owner": "andrew",
+      "estimate": 2,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "q5z7blm",
+      "name": "Upgrade webserver to allow for Mavinfurniture",
+      "area": "Web",
+      "owner": "andrew",
+      "estimate": 4,
+      "spent": 0,
+      "phase": 2,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "45mssue",
+      "name": "Move Mavin furniture to our hosting",
+      "area": "Web",
+      "owner": "andrew",
+      "estimate": 10,
+      "spent": 0,
+      "phase": 2,
+      "after": "q5z7blm",
+      "done": false
+    },
+    {
+      "id": "0n9i8up",
+      "name": "Café rewrite for item inventory",
+      "area": "Cafe",
+      "owner": "andrew",
+      "estimate": 20,
+      "spent": 0,
+      "phase": 2,
+      "after": "",
+      "done": false
+    }
+  ],
+  "phases": [
+    {
+      "id": 1,
+      "name": "Go Live"
+    },
+    {
+      "id": 2,
+      "name": "Phase 2"
+    }
+  ],
+  "activePhase": 1,
+  "chain": true,
+  "holidays": [
+    {
+      "id": "4wo4r4s",
+      "date": "2026-09-07",
+      "label": "Labor Day"
+    },
+    {
+      "id": "jov7mju",
+      "date": "2026-11-26",
+      "label": "Thanksgiving"
+    },
+    {
+      "id": "pf0r2qd",
+      "date": "2026-11-27",
+      "label": "Day after Thanksgiving"
+    },
+    {
+      "id": "c9sly5c",
+      "date": "2026-12-24",
+      "label": "Christmas Eve"
+    },
+    {
+      "id": "2d3yq1m",
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "id": "rm254tj",
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "id": "5jx90s7",
+      "date": "2027-05-31",
+      "label": "Memorial Day"
+    },
+    {
+      "id": "xxwmg96",
+      "date": "2027-07-05",
+      "label": "Independence Day"
+    },
+    {
+      "id": "qb4f48j",
+      "date": "2027-09-06",
+      "label": "Labor Day"
+    },
+    {
+      "id": "k6qsfmq",
+      "date": "2027-11-25",
+      "label": "Thanksgiving"
+    },
+    {
+      "id": "5t6h5ov",
+      "date": "2027-11-26",
+      "label": "Day after Thanksgiving"
+    },
+    {
+      "id": "g7imh3c",
+      "date": "2027-12-24",
+      "label": "Christmas Eve"
+    },
+    {
+      "id": "dtk1j6z",
+      "date": "2027-12-24",
+      "label": "Christmas Day"
+    }
+  ],
+  "startISO": "2026-09-02"
+}
