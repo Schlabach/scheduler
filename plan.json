@@ -1,7 +1,7 @@
 {
   "kind": "capacity-plan",
   "version": 2,
-  "publishedAt": "2026-09-02T17:11:34.569Z",
+  "publishedAt": "2026-09-08T15:11:00.822Z",
   "planName": "Development To Do",
   "people": [
     {
@@ -30,10 +30,10 @@
       "area": "Global Shop",
       "owner": "matt",
       "estimate": 5,
-      "spent": 0,
+      "spent": 5,
       "phase": 1,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "9u0mqmk",
@@ -41,10 +41,10 @@
       "area": "Data Conversion",
       "owner": "matt",
       "estimate": 4,
-      "spent": 0,
+      "spent": 2,
       "phase": 1,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "ijizbj9",
@@ -74,7 +74,7 @@
       "area": "Acumatica",
       "owner": "andrew",
       "estimate": 100,
-      "spent": 0,
+      "spent": 30,
       "phase": 1,
       "after": "",
       "done": false
@@ -124,17 +124,6 @@
       "done": false
     },
     {
-      "id": "gnp3io4",
-      "name": "Boxing GI/Label Printing",
-      "area": "Acumatica",
-      "owner": "matt",
-      "estimate": 35,
-      "spent": 0,
-      "phase": 1,
-      "after": "",
-      "done": false
-    },
-    {
       "id": "ddt4ib2",
       "name": "Paragon",
       "area": "Acumatica",
@@ -162,10 +151,10 @@
       "area": "Acumatica",
       "owner": "mike",
       "estimate": 20,
-      "spent": 0,
+      "spent": 8,
       "phase": 1,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "qh0hprz",
@@ -195,6 +184,28 @@
       "area": "Reports/Labels",
       "owner": "mike",
       "estimate": 56,
+      "spent": 30,
+      "phase": 1,
+      "after": "",
+      "done": true
+    },
+    {
+      "id": "mxxwu98",
+      "name": "Lumber Grading Fix",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 12,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "sssijcx",
+      "name": "Timber contract field addition",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 10,
       "spent": 0,
       "phase": 1,
       "after": "",
@@ -206,6 +217,17 @@
       "area": "Reports/Labels",
       "owner": "mike",
       "estimate": 40,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "gnp3io4",
+      "name": "Boxing GI/Label Printing",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 35,
       "spent": 0,
       "phase": 1,
       "after": "",
@@ -228,10 +250,10 @@
       "area": "Web",
       "owner": "andrew",
       "estimate": 5,
-      "spent": 0,
+      "spent": 5,
       "phase": 1,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "y21r340",
@@ -239,10 +261,10 @@
       "area": "Marketing",
       "owner": "andrew",
       "estimate": 2,
-      "spent": 0,
+      "spent": 1,
       "phase": 1,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "q5z7blm",
@@ -278,33 +300,11 @@
       "done": false
     },
     {
-      "id": "mxxwu98",
-      "name": "Grading Fix",
-      "area": "Acumatica",
-      "owner": "mike",
-      "estimate": 12,
-      "spent": 0,
-      "phase": 1,
-      "after": "",
-      "done": false
-    },
-    {
-      "id": "sssijcx",
-      "name": "Timber contract field addition",
-      "area": "Acumatica",
-      "owner": "mike",
-      "estimate": 10,
-      "spent": 0,
-      "phase": 1,
-      "after": "",
-      "done": false
-    },
-    {
       "id": "2ul2i3u",
       "name": "Customization Handoff",
       "area": "Acumatica",
       "owner": "mike",
-      "estimate": 4,
+      "estimate": 8,
       "spent": 0,
       "phase": 1,
       "after": "",
@@ -390,5 +390,5 @@
       "label": "Christmas Day"
     }
   ],
-  "startISO": "2026-09-03"
+  "startISO": "2026-09-08"
 }
