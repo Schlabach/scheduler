@@ -1,7 +1,7 @@
 {
   "kind": "capacity-plan",
   "version": 2,
-  "publishedAt": "2026-09-08T15:11:00.822Z",
+  "publishedAt": "2026-09-15T12:34:42.247Z",
   "planName": "Development To Do",
   "people": [
     {
@@ -55,7 +55,7 @@
       "spent": 0,
       "phase": 1,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "wihlnlg",
@@ -66,7 +66,7 @@
       "spent": 0,
       "phase": 1,
       "after": "ijizbj9",
-      "done": false
+      "done": true
     },
     {
       "id": "gkb9fl8",
@@ -74,7 +74,7 @@
       "area": "Acumatica",
       "owner": "andrew",
       "estimate": 100,
-      "spent": 30,
+      "spent": 50,
       "phase": 1,
       "after": "",
       "done": false
@@ -85,6 +85,17 @@
       "area": "Acumatica",
       "owner": "matt",
       "estimate": 35,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": true
+    },
+    {
+      "id": "0bxxghj",
+      "name": "Shipping/Carton Count",
+      "area": "POP",
+      "owner": "matt",
+      "estimate": 90,
       "spent": 0,
       "phase": 1,
       "after": "",
@@ -110,17 +121,6 @@
       "spent": 0,
       "phase": 1,
       "after": "05dkz6g",
-      "done": false
-    },
-    {
-      "id": "0bxxghj",
-      "name": "Shipping/Carton Count",
-      "area": "POP",
-      "owner": "matt",
-      "estimate": 90,
-      "spent": 0,
-      "phase": 1,
-      "after": "",
       "done": false
     },
     {
@@ -240,7 +240,7 @@
       "owner": "andrew",
       "estimate": 15,
       "spent": 0,
-      "phase": 1,
+      "phase": 2,
       "after": "",
       "done": false
     },
@@ -390,5 +390,5 @@
       "label": "Christmas Day"
     }
   ],
-  "startISO": "2026-09-08"
+  "startISO": "2026-09-15"
 }
