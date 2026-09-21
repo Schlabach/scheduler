@@ -1,7 +1,7 @@
 {
   "kind": "capacity-plan",
   "version": 2,
-  "publishedAt": "2026-09-15T12:34:42.247Z",
+  "publishedAt": "2026-09-21T15:54:59.091Z",
   "planName": "Development To Do",
   "people": [
     {
@@ -74,7 +74,7 @@
       "area": "Acumatica",
       "owner": "andrew",
       "estimate": 100,
-      "spent": 50,
+      "spent": 70,
       "phase": 1,
       "after": "",
       "done": false
@@ -96,7 +96,7 @@
       "area": "POP",
       "owner": "matt",
       "estimate": 90,
-      "spent": 0,
+      "spent": 25,
       "phase": 1,
       "after": "",
       "done": false
@@ -198,7 +198,7 @@
       "spent": 0,
       "phase": 1,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "sssijcx",
@@ -209,7 +209,7 @@
       "spent": 0,
       "phase": 1,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "rf1w5eb",
@@ -217,7 +217,7 @@
       "area": "Reports/Labels",
       "owner": "mike",
       "estimate": 40,
-      "spent": 0,
+      "spent": 20,
       "phase": 1,
       "after": "",
       "done": false
@@ -228,7 +228,7 @@
       "area": "Acumatica",
       "owner": "mike",
       "estimate": 35,
-      "spent": 0,
+      "spent": 5,
       "phase": 1,
       "after": "",
       "done": false
@@ -305,7 +305,7 @@
       "area": "Acumatica",
       "owner": "mike",
       "estimate": 8,
-      "spent": 0,
+      "spent": 2,
       "phase": 1,
       "after": "",
       "done": false
@@ -390,5 +390,5 @@
       "label": "Christmas Day"
     }
   ],
-  "startISO": "2026-09-15"
+  "startISO": "2026-09-21"
 }
