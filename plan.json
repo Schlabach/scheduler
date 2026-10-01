@@ -1,7 +1,7 @@
 {
   "kind": "capacity-plan",
   "version": 2,
-  "publishedAt": "2026-09-21T15:54:59.091Z",
+  "publishedAt": "2026-09-24T14:15:27.309Z",
   "planName": "Development To Do",
   "people": [
     {
@@ -25,50 +25,6 @@
   ],
   "tasks": [
     {
-      "id": "a3nkot2",
-      "name": "Rooted Labels",
-      "area": "Global Shop",
-      "owner": "matt",
-      "estimate": 5,
-      "spent": 5,
-      "phase": 1,
-      "after": "",
-      "done": true
-    },
-    {
-      "id": "9u0mqmk",
-      "name": "Test 3 BOM fix",
-      "area": "Data Conversion",
-      "owner": "matt",
-      "estimate": 4,
-      "spent": 2,
-      "phase": 1,
-      "after": "",
-      "done": true
-    },
-    {
-      "id": "ijizbj9",
-      "name": "Cutbill/Rooted",
-      "area": "Global Shop",
-      "owner": "matt",
-      "estimate": 10,
-      "spent": 0,
-      "phase": 1,
-      "after": "",
-      "done": true
-    },
-    {
-      "id": "wihlnlg",
-      "name": "Cutbill/Rooted/Auth",
-      "area": "Acumatica",
-      "owner": "matt",
-      "estimate": 20,
-      "spent": 0,
-      "phase": 1,
-      "after": "ijizbj9",
-      "done": true
-    },
-    {
       "id": "gkb9fl8",
       "name": "Sales Portal",
       "area": "Acumatica",
@@ -80,23 +36,45 @@
       "done": false
     },
     {
-      "id": "wi7dv3t",
-      "name": "Optimatch Conversion",
-      "area": "Acumatica",
-      "owner": "matt",
-      "estimate": 35,
-      "spent": 0,
-      "phase": 1,
-      "after": "",
-      "done": true
-    },
-    {
       "id": "0bxxghj",
       "name": "Shipping/Carton Count",
       "area": "POP",
       "owner": "matt",
       "estimate": 90,
       "spent": 25,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "rf1w5eb",
+      "name": "Labels",
+      "area": "Reports/Labels",
+      "owner": "mike",
+      "estimate": 40,
+      "spent": 20,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "gnp3io4",
+      "name": "Boxing GI/Label Printing",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 35,
+      "spent": 5,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "2ul2i3u",
+      "name": "Customization Handoff",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 8,
+      "spent": 2,
       "phase": 1,
       "after": "",
       "done": false
@@ -146,17 +124,6 @@
       "done": false
     },
     {
-      "id": "dk5k0km",
-      "name": "Set Load Date",
-      "area": "Acumatica",
-      "owner": "mike",
-      "estimate": 20,
-      "spent": 8,
-      "phase": 1,
-      "after": "",
-      "done": true
-    },
-    {
       "id": "qh0hprz",
       "name": "Scoreboard Conversion",
       "area": "Acumatica",
@@ -177,6 +144,72 @@
       "phase": 1,
       "after": "",
       "done": false
+    },
+    {
+      "id": "a3nkot2",
+      "name": "Rooted Labels",
+      "area": "Global Shop",
+      "owner": "matt",
+      "estimate": 5,
+      "spent": 5,
+      "phase": 1,
+      "after": "",
+      "done": true
+    },
+    {
+      "id": "9u0mqmk",
+      "name": "Test 3 BOM fix",
+      "area": "Data Conversion",
+      "owner": "matt",
+      "estimate": 4,
+      "spent": 2,
+      "phase": 1,
+      "after": "",
+      "done": true
+    },
+    {
+      "id": "ijizbj9",
+      "name": "Cutbill/Rooted",
+      "area": "Global Shop",
+      "owner": "matt",
+      "estimate": 10,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": true
+    },
+    {
+      "id": "wihlnlg",
+      "name": "Cutbill/Rooted/Auth",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 20,
+      "spent": 0,
+      "phase": 1,
+      "after": "ijizbj9",
+      "done": true
+    },
+    {
+      "id": "wi7dv3t",
+      "name": "Optimatch Conversion",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 35,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": true
+    },
+    {
+      "id": "dk5k0km",
+      "name": "Set Load Date",
+      "area": "Acumatica",
+      "owner": "mike",
+      "estimate": 20,
+      "spent": 8,
+      "phase": 1,
+      "after": "",
+      "done": true
     },
     {
       "id": "4m2mpsq",
@@ -210,28 +243,6 @@
       "phase": 1,
       "after": "",
       "done": true
-    },
-    {
-      "id": "rf1w5eb",
-      "name": "Labels",
-      "area": "Reports/Labels",
-      "owner": "mike",
-      "estimate": 40,
-      "spent": 20,
-      "phase": 1,
-      "after": "",
-      "done": false
-    },
-    {
-      "id": "gnp3io4",
-      "name": "Boxing GI/Label Printing",
-      "area": "Acumatica",
-      "owner": "mike",
-      "estimate": 35,
-      "spent": 5,
-      "phase": 1,
-      "after": "",
-      "done": false
     },
     {
       "id": "945csqu",
@@ -296,17 +307,6 @@
       "estimate": 20,
       "spent": 0,
       "phase": 2,
-      "after": "",
-      "done": false
-    },
-    {
-      "id": "2ul2i3u",
-      "name": "Customization Handoff",
-      "area": "Acumatica",
-      "owner": "mike",
-      "estimate": 8,
-      "spent": 2,
-      "phase": 1,
       "after": "",
       "done": false
     }
