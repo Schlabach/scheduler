@@ -1,7 +1,7 @@
 {
   "kind": "capacity-plan",
   "version": 2,
-  "publishedAt": "2026-09-24T14:15:27.309Z",
+  "publishedAt": "2026-10-20T16:30:28.000Z",
   "planName": "Development To Do",
   "people": [
     {
@@ -31,9 +31,9 @@
       "owner": "andrew",
       "estimate": 100,
       "spent": 70,
-      "phase": 1,
+      "phase": 3,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "0bxxghj",
@@ -42,9 +42,9 @@
       "owner": "matt",
       "estimate": 90,
       "spent": 25,
-      "phase": 1,
+      "phase": 3,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "rf1w5eb",
@@ -53,9 +53,9 @@
       "owner": "mike",
       "estimate": 40,
       "spent": 20,
-      "phase": 1,
+      "phase": 3,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "gnp3io4",
@@ -64,9 +64,9 @@
       "owner": "mike",
       "estimate": 35,
       "spent": 5,
-      "phase": 1,
+      "phase": 3,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "2ul2i3u",
@@ -75,16 +75,27 @@
       "owner": "mike",
       "estimate": 8,
       "spent": 2,
-      "phase": 1,
+      "phase": 3,
       "after": "",
-      "done": false
+      "done": true
+    },
+    {
+      "id": "ddt4ib2",
+      "name": "Paragon",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 5,
+      "spent": 0,
+      "phase": 3,
+      "after": "",
+      "done": true
     },
     {
       "id": "05dkz6g",
       "name": "Data review/alterations",
       "area": "Data Conversion",
       "owner": "matt",
-      "estimate": 10,
+      "estimate": 15,
       "spent": 0,
       "phase": 1,
       "after": "",
@@ -102,23 +113,12 @@
       "done": false
     },
     {
-      "id": "ddt4ib2",
-      "name": "Paragon",
-      "area": "Acumatica",
-      "owner": "matt",
-      "estimate": 5,
-      "spent": 0,
-      "phase": 1,
-      "after": "",
-      "done": false
-    },
-    {
       "id": "t9rpsn8",
       "name": "Reports",
       "area": "Reports/Labels",
       "owner": "andrew",
       "estimate": 80,
-      "spent": 0,
+      "spent": 60,
       "phase": 1,
       "after": "",
       "done": false
@@ -130,7 +130,7 @@
       "owner": "andrew",
       "estimate": 25,
       "spent": 0,
-      "phase": 1,
+      "phase": 2,
       "after": "",
       "done": false
     },
@@ -138,12 +138,12 @@
       "id": "it1avqb",
       "name": "Add points to SLD",
       "area": "Acumatica",
-      "owner": "andrew",
+      "owner": "matt",
       "estimate": 5,
       "spent": 0,
-      "phase": 1,
+      "phase": 3,
       "after": "",
-      "done": false
+      "done": true
     },
     {
       "id": "a3nkot2",
@@ -152,7 +152,7 @@
       "owner": "matt",
       "estimate": 5,
       "spent": 5,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -163,7 +163,7 @@
       "owner": "matt",
       "estimate": 4,
       "spent": 2,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -174,7 +174,7 @@
       "owner": "matt",
       "estimate": 10,
       "spent": 0,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -185,7 +185,7 @@
       "owner": "matt",
       "estimate": 20,
       "spent": 0,
-      "phase": 1,
+      "phase": 3,
       "after": "ijizbj9",
       "done": true
     },
@@ -196,7 +196,7 @@
       "owner": "matt",
       "estimate": 35,
       "spent": 0,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -207,7 +207,7 @@
       "owner": "mike",
       "estimate": 20,
       "spent": 8,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -218,7 +218,7 @@
       "owner": "mike",
       "estimate": 56,
       "spent": 30,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -229,7 +229,7 @@
       "owner": "mike",
       "estimate": 12,
       "spent": 0,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -240,7 +240,7 @@
       "owner": "mike",
       "estimate": 10,
       "spent": 0,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -262,7 +262,7 @@
       "owner": "andrew",
       "estimate": 5,
       "spent": 5,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -273,7 +273,7 @@
       "owner": "andrew",
       "estimate": 2,
       "spent": 1,
-      "phase": 1,
+      "phase": 3,
       "after": "",
       "done": true
     },
@@ -309,6 +309,39 @@
       "phase": 2,
       "after": "",
       "done": false
+    },
+    {
+      "id": "fghzk9i",
+      "name": "Flow Set Load Date Fix",
+      "area": "Global Shop",
+      "owner": "matt",
+      "estimate": 4,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "072g0dp",
+      "name": "Shipped Vs Sales Conversion",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 5,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
+    },
+    {
+      "id": "0ccg0sd",
+      "name": "Load Stop Assignment",
+      "area": "Acumatica",
+      "owner": "matt",
+      "estimate": 25,
+      "spent": 0,
+      "phase": 1,
+      "after": "",
+      "done": false
     }
   ],
   "phases": [
@@ -319,6 +352,10 @@
     {
       "id": 2,
       "name": "Phase 2"
+    },
+    {
+      "id": 3,
+      "name": "Phase 3"
     }
   ],
   "activePhase": 1,
@@ -390,5 +427,5 @@
       "label": "Christmas Day"
     }
   ],
-  "startISO": "2026-09-21"
+  "startISO": "2026-10-20"
 }
